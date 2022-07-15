@@ -27,17 +27,9 @@ yarn install
 ```
 yarn server
 ```
-ou
-```
-npm run server
-```
 
 ### Rode a aplicação
 
 ```
 yarn dev
-```
-ou
-```
-npm run dev
 ```
