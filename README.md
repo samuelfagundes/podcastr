@@ -2,6 +2,12 @@
 
 Plataforma para ouvir seus podcasts favoritos
 
+## Tecnologias utilizadas
+
+* NextJS
+* SASS
+* Typescript
+
 ## Rodando localmente
 
 Para rodar localmente essa aplicação faça o seguinte:
@@ -22,7 +28,7 @@ cd podcastr
 yarn install
 ```
 
-### Rode o server
+### Inicie o servidor
 
 ```
 yarn server
